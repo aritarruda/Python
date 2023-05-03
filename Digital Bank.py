@@ -1,4 +1,5 @@
 # Criando apresentação
+
 def Apresentacao():
     espacador = '*' * 40
     print(espacador, '\nBoas-vindas ao ProjetoBanco Ana & Larissa\n', espacador, '\nCadastre-se:\n')
